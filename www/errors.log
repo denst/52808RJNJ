@@ -1,0 +1,296 @@
+[18-Feb-2014 15:11:17 Europe/Helsinki] ------------------------------------------------------
+[18-Feb-2014 15:11:17 Europe/Helsinki] cron work
+[18-Feb-2014 15:11:30 Europe/Helsinki] ------------------------------------------------------
+[18-Feb-2014 15:11:30 Europe/Helsinki] cron work
+[18-Feb-2014 15:39:01 Europe/Helsinki] ------------------------------------------------------
+[18-Feb-2014 15:39:01 Europe/Helsinki] cron work
+[19-Feb-2014 11:06:52 Europe/Helsinki] ------------------------------------------------------
+[19-Feb-2014 11:06:52 Europe/Helsinki] cron work
+[19-Feb-2014 11:06:53 Europe/Helsinki] PHP Notice:  Constant PUBLIC_TYPE already defined in /home/denst/www/rosatom/www/classes/vacancies.php on line 21
+[19-Feb-2014 11:06:53 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:06:53 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:06:53 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:06:53 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:151
+[19-Feb-2014 11:06:53 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:06:53 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:06:53 Europe/Helsinki] PHP   6. Vacancies->__construct() /home/denst/www/rosatom/www/view/email.php:19
+[19-Feb-2014 11:06:53 Europe/Helsinki] PHP   7. define() /home/denst/www/rosatom/www/classes/vacancies.php:21
+[19-Feb-2014 11:06:53 Europe/Helsinki] PHP Notice:  Constant PORTAL_TYPE already defined in /home/denst/www/rosatom/www/classes/vacancies.php on line 22
+[19-Feb-2014 11:06:53 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:06:53 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:06:53 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:06:53 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:151
+[19-Feb-2014 11:06:53 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:06:53 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:06:53 Europe/Helsinki] PHP   6. Vacancies->__construct() /home/denst/www/rosatom/www/view/email.php:19
+[19-Feb-2014 11:06:53 Europe/Helsinki] PHP   7. define() /home/denst/www/rosatom/www/classes/vacancies.php:22
+[19-Feb-2014 11:06:54 Europe/Helsinki] PHP Notice:  Constant PUBLIC_TYPE already defined in /home/denst/www/rosatom/www/classes/vacancies.php on line 21
+[19-Feb-2014 11:06:54 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:06:54 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:06:54 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:06:54 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:152
+[19-Feb-2014 11:06:54 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:06:54 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:06:54 Europe/Helsinki] PHP   6. Vacancies->__construct() /home/denst/www/rosatom/www/view/email.php:19
+[19-Feb-2014 11:06:54 Europe/Helsinki] PHP   7. define() /home/denst/www/rosatom/www/classes/vacancies.php:21
+[19-Feb-2014 11:06:54 Europe/Helsinki] PHP Notice:  Constant PORTAL_TYPE already defined in /home/denst/www/rosatom/www/classes/vacancies.php on line 22
+[19-Feb-2014 11:06:54 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:06:54 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:06:54 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:06:54 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:152
+[19-Feb-2014 11:06:54 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:06:54 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:06:54 Europe/Helsinki] PHP   6. Vacancies->__construct() /home/denst/www/rosatom/www/view/email.php:19
+[19-Feb-2014 11:06:54 Europe/Helsinki] PHP   7. define() /home/denst/www/rosatom/www/classes/vacancies.php:22
+[19-Feb-2014 11:13:53 Europe/Helsinki] ------------------------------------------------------
+[19-Feb-2014 11:13:53 Europe/Helsinki] cron work
+[19-Feb-2014 11:14:11 Europe/Helsinki] ------------------------------------------------------
+[19-Feb-2014 11:14:11 Europe/Helsinki] cron work
+[19-Feb-2014 11:20:28 Europe/Helsinki] ------------------------------------------------------
+[19-Feb-2014 11:20:28 Europe/Helsinki] cron work
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP Warning:  include_once(../classes/vacancies.php): failed to open stream: No such file or directory in /home/denst/www/rosatom/www/view/email.php on line 18
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:151
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '../classes/vacancies.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/denst/www/rosatom/www/view/email.php on line 18
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:151
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP Notice:  Constant PUBLIC_TYPE already defined in /home/denst/www/rosatom/www/classes/vacancies.php on line 21
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:151
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP   6. Vacancies->__construct() /home/denst/www/rosatom/www/view/email.php:19
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP   7. define() /home/denst/www/rosatom/www/classes/vacancies.php:21
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP Notice:  Constant PORTAL_TYPE already defined in /home/denst/www/rosatom/www/classes/vacancies.php on line 22
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:151
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP   6. Vacancies->__construct() /home/denst/www/rosatom/www/view/email.php:19
+[19-Feb-2014 11:20:28 Europe/Helsinki] PHP   7. define() /home/denst/www/rosatom/www/classes/vacancies.php:22
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP Warning:  include_once(../classes/vacancies.php): failed to open stream: No such file or directory in /home/denst/www/rosatom/www/view/email.php on line 18
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:152
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP Warning:  include_once(): Failed opening '../classes/vacancies.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/denst/www/rosatom/www/view/email.php on line 18
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:152
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP Notice:  Constant PUBLIC_TYPE already defined in /home/denst/www/rosatom/www/classes/vacancies.php on line 21
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:152
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP   6. Vacancies->__construct() /home/denst/www/rosatom/www/view/email.php:19
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP   7. define() /home/denst/www/rosatom/www/classes/vacancies.php:21
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP Notice:  Constant PORTAL_TYPE already defined in /home/denst/www/rosatom/www/classes/vacancies.php on line 22
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:152
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP   6. Vacancies->__construct() /home/denst/www/rosatom/www/view/email.php:19
+[19-Feb-2014 11:20:30 Europe/Helsinki] PHP   7. define() /home/denst/www/rosatom/www/classes/vacancies.php:22
+[19-Feb-2014 11:21:51 Europe/Helsinki] ------------------------------------------------------
+[19-Feb-2014 11:21:51 Europe/Helsinki] cron work
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP Warning:  include(../classes/vacancies.php): failed to open stream: No such file or directory in /home/denst/www/rosatom/www/view/email.php on line 18
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:151
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP Warning:  include(): Failed opening '../classes/vacancies.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/denst/www/rosatom/www/view/email.php on line 18
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:151
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP Notice:  Constant PUBLIC_TYPE already defined in /home/denst/www/rosatom/www/classes/vacancies.php on line 21
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:151
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP   6. Vacancies->__construct() /home/denst/www/rosatom/www/view/email.php:19
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP   7. define() /home/denst/www/rosatom/www/classes/vacancies.php:21
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP Notice:  Constant PORTAL_TYPE already defined in /home/denst/www/rosatom/www/classes/vacancies.php on line 22
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:151
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP   6. Vacancies->__construct() /home/denst/www/rosatom/www/view/email.php:19
+[19-Feb-2014 11:21:51 Europe/Helsinki] PHP   7. define() /home/denst/www/rosatom/www/classes/vacancies.php:22
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP Warning:  include(../classes/vacancies.php): failed to open stream: No such file or directory in /home/denst/www/rosatom/www/view/email.php on line 18
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:152
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP Warning:  include(): Failed opening '../classes/vacancies.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/denst/www/rosatom/www/view/email.php on line 18
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:152
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP Notice:  Constant PUBLIC_TYPE already defined in /home/denst/www/rosatom/www/classes/vacancies.php on line 21
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:152
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP   6. Vacancies->__construct() /home/denst/www/rosatom/www/view/email.php:19
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP   7. define() /home/denst/www/rosatom/www/classes/vacancies.php:21
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP Notice:  Constant PORTAL_TYPE already defined in /home/denst/www/rosatom/www/classes/vacancies.php on line 22
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:152
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP   6. Vacancies->__construct() /home/denst/www/rosatom/www/view/email.php:19
+[19-Feb-2014 11:21:52 Europe/Helsinki] PHP   7. define() /home/denst/www/rosatom/www/classes/vacancies.php:22
+[19-Feb-2014 11:22:15 Europe/Helsinki] ------------------------------------------------------
+[19-Feb-2014 11:22:15 Europe/Helsinki] cron work
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP Warning:  include(../classes/vacancies.php): failed to open stream: No such file or directory in /home/denst/www/rosatom/www/view/email.php on line 18
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:151
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP Warning:  include(): Failed opening '../classes/vacancies.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/denst/www/rosatom/www/view/email.php on line 18
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:151
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP Notice:  Constant PUBLIC_TYPE already defined in /home/denst/www/rosatom/www/classes/vacancies.php on line 21
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:151
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   6. Vacancies->__construct() /home/denst/www/rosatom/www/view/email.php:19
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   7. define() /home/denst/www/rosatom/www/classes/vacancies.php:21
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP Notice:  Constant PORTAL_TYPE already defined in /home/denst/www/rosatom/www/classes/vacancies.php on line 22
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:151
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   6. Vacancies->__construct() /home/denst/www/rosatom/www/view/email.php:19
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   7. define() /home/denst/www/rosatom/www/classes/vacancies.php:22
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP Warning:  include(../classes/vacancies.php): failed to open stream: No such file or directory in /home/denst/www/rosatom/www/view/email.php on line 18
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:152
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP Warning:  include(): Failed opening '../classes/vacancies.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/denst/www/rosatom/www/view/email.php on line 18
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:152
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP Notice:  Constant PUBLIC_TYPE already defined in /home/denst/www/rosatom/www/classes/vacancies.php on line 21
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:152
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   6. Vacancies->__construct() /home/denst/www/rosatom/www/view/email.php:19
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   7. define() /home/denst/www/rosatom/www/classes/vacancies.php:21
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP Notice:  Constant PORTAL_TYPE already defined in /home/denst/www/rosatom/www/classes/vacancies.php on line 22
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:152
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   6. Vacancies->__construct() /home/denst/www/rosatom/www/view/email.php:19
+[19-Feb-2014 11:22:16 Europe/Helsinki] PHP   7. define() /home/denst/www/rosatom/www/classes/vacancies.php:22
+[19-Feb-2014 11:25:33 Europe/Helsinki] ------------------------------------------------------
+[19-Feb-2014 11:25:33 Europe/Helsinki] cron work
+[19-Feb-2014 11:25:36 Europe/Helsinki] PHP Warning:  require_once(../classes/vacancies.php): failed to open stream: No such file or directory in /home/denst/www/rosatom/www/view/email.php on line 18
+[19-Feb-2014 11:25:36 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:25:36 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:25:36 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:25:36 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:151
+[19-Feb-2014 11:25:36 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:25:36 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:25:36 Europe/Helsinki] PHP Fatal error:  require_once(): Failed opening required '../classes/vacancies.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/denst/www/rosatom/www/view/email.php on line 18
+[19-Feb-2014 11:25:36 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:25:36 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:25:36 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:25:36 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:151
+[19-Feb-2014 11:25:36 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:25:36 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:26:20 Europe/Helsinki] ------------------------------------------------------
+[19-Feb-2014 11:26:20 Europe/Helsinki] cron work
+[19-Feb-2014 11:26:20 Europe/Helsinki] PHP Fatal error:  Cannot redeclare class Vacancies in /home/denst/www/rosatom/www/classes/vacancies.php on line 9
+[19-Feb-2014 11:26:20 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:26:20 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:26:20 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:26:20 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:151
+[19-Feb-2014 11:26:20 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:26:20 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:26:20 Europe/Helsinki] PHP   6. include() /home/denst/www/rosatom/www/view/email.php:18
+[19-Feb-2014 11:27:50 Europe/Helsinki] ------------------------------------------------------
+[19-Feb-2014 11:27:50 Europe/Helsinki] cron work
+[19-Feb-2014 11:27:51 Europe/Helsinki] PHP Notice:  Constant PUBLIC_TYPE already defined in /home/denst/www/rosatom/www/classes/vacancies.php on line 21
+[19-Feb-2014 11:27:51 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:27:51 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:27:51 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:27:51 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:151
+[19-Feb-2014 11:27:51 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:27:51 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:27:51 Europe/Helsinki] PHP   6. Vacancies->__construct() /home/denst/www/rosatom/www/view/email.php:19
+[19-Feb-2014 11:27:51 Europe/Helsinki] PHP   7. define() /home/denst/www/rosatom/www/classes/vacancies.php:21
+[19-Feb-2014 11:27:51 Europe/Helsinki] PHP Notice:  Constant PORTAL_TYPE already defined in /home/denst/www/rosatom/www/classes/vacancies.php on line 22
+[19-Feb-2014 11:27:51 Europe/Helsinki] PHP Stack trace:
+[19-Feb-2014 11:27:51 Europe/Helsinki] PHP   1. {main}() /home/denst/www/rosatom/www/cron.php:0
+[19-Feb-2014 11:27:51 Europe/Helsinki] PHP   2. Vacancies->check_advertisements() /home/denst/www/rosatom/www/cron.php:10
+[19-Feb-2014 11:27:51 Europe/Helsinki] PHP   3. View->render() /home/denst/www/rosatom/www/classes/vacancies.php:151
+[19-Feb-2014 11:27:51 Europe/Helsinki] PHP   4. View::capture() /home/denst/www/rosatom/www/classes/view.php:336
+[19-Feb-2014 11:27:51 Europe/Helsinki] PHP   5. include() /home/denst/www/rosatom/www/classes/view.php:61
+[19-Feb-2014 11:27:51 Europe/Helsinki] PHP   6. Vacancies->__construct() /home/denst/www/rosatom/www/view/email.php:19
+[19-Feb-2014 11:27:51 Europe/Helsinki] PHP   7. define() /home/denst/www/rosatom/www/classes/vacancies.php:22
+[19-Feb-2014 11:29:59 Europe/Helsinki] ------------------------------------------------------
+[19-Feb-2014 11:29:59 Europe/Helsinki] cron work
+[19-Feb-2014 11:33:21 Europe/Helsinki] ------------------------------------------------------
+[19-Feb-2014 11:33:21 Europe/Helsinki] cron work

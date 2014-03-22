@@ -1,4 +1,0 @@
-rosatom
-=======
-
-rosatom

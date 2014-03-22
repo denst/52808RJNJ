@@ -1,0 +1,31 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ws="http://ws.mrted.com/">
+   <soapenv:Header>
+        <wsse:Security soapenv:mustUnderstand="1" xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+            <wsse:UsernameToken wsu:Id="UsernameToken-1">
+                <wsse:Username>TECHNICAL-ID:FO</wsse:Username>
+                <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">guest</wsse:Password>
+                <wsse:Nonce EncodingType="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-soap-message-security-1.0#Base64Binary">qI403DYkbLOizyMLb3BfAQ==</wsse:Nonce>
+                <wsu:Created>2012-06-12T06:30:44.899Z</wsu:Created>
+            </wsse:UsernameToken>
+        </wsse:Security></soapenv:Header>
+   <soapenv:Body>
+      <ws:getAdvertisements>
+         <ws:firstResult>0</ws:firstResult>
+         <ws:maxResults>100</ws:maxResults>
+         <ws:searchCriteriaDto>
+            <adLanguages>
+               <language></language>
+            </adLanguages>
+            <countries>
+               <country>1194</country>
+            </countries>
+            <generalApplication>false</generalApplication>
+         </ws:searchCriteriaDto>
+         <ws:sortingDetailsDto>
+            <columnName></columnName>
+            <sortType></sortType>
+         </ws:sortingDetailsDto>
+         <ws:langCode></ws:langCode>
+      </ws:getAdvertisements>
+   </soapenv:Body>
+</soapenv:Envelope>

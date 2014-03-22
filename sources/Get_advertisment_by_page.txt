@@ -1,0 +1,80 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ws="http://ws.mrted.com/">
+   <soapenv:Header>
+      <wsse:Security soapenv:mustUnderstand="1" xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+         <wsse:UsernameToken wsu:Id="UsernameToken-1">
+            <wsse:Username>TECHNICAL-ID:guest:FO</wsse:Username>
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">guest</wsse:Password>
+            <wsse:Nonce EncodingType="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-soap-message-security-1.0#Base64Binary">nhCqitif/YO1iKIaIqD9xw==</wsse:Nonce>
+            <wsu:Created>2013-04-05T07:45:41.461Z</wsu:Created>
+         </wsse:UsernameToken>
+      </wsse:Security>
+   </soapenv:Header>
+   <soapenv:Body>
+      <ws:getAdvertisementsByPage>
+         <ws:pageNumber>3</ws:pageNumber>
+         <!--Optional:-->
+         <ws:searchCriteriaDto>
+            <adLanguages>
+               <!--Zero or more repetitions:-->
+               <language></language>
+            </adLanguages>
+            <categoryLists>
+               <!--Zero or more repetitions:-->
+               <categoryList>
+                  <!--Optional:-->
+                  <categoryIds>
+                     <!--Zero or more repetitions:-->
+                     <categoryId></categoryId>
+                  </categoryIds>
+                  <!--Optional:-->
+                  <order>?</order>
+               </categoryList>
+            </categoryLists>
+            <contractTypes>
+               <!--Zero or more repetitions:-->
+               <contractType></contractType>
+            </contractTypes>
+            <countries>
+               <!--Zero or more repetitions:-->
+               <country></country>
+            </countries>
+            <customLovs>
+               <!--Zero or more repetitions:-->
+               <customLovGroup>
+                  <!--Zero or more repetitions:-->
+                  <customLov></customLov>
+               </customLovGroup>
+            </customLovs>
+            <!--Optional:-->
+            <generalApplication></generalApplication>
+            <!--Optional:-->
+            <jobNumber></jobNumber>
+            <!--Optional:-->
+            <keywords></keywords>
+            <organizationIds>
+               <!--Zero or more repetitions:-->
+               <organizationId></organizationId>
+            </organizationIds>
+            <!--Optional:-->
+            <postedSince></postedSince>
+            <regions>
+               <!--Zero or more repetitions:-->
+               <region></region>
+            </regions>
+            <scheduleTypes>
+               <!--Zero or more repetitions:-->
+               <scheduleType></scheduleType>
+            </scheduleTypes>
+         </ws:searchCriteriaDto>
+         <!--Optional:-->
+         <ws:sortingDetailsDto>
+            <!--Optional:-->
+            <columnName></columnName>
+            <!--Optional:-->
+            <sortType></sortType>
+         </ws:sortingDetailsDto>
+         <!--Optional:-->
+         <ws:langCode></ws:langCode>
+      </ws:getAdvertisementsByPage>
+   </soapenv:Body>
+</soapenv:Envelope>
